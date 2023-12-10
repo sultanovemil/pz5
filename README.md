@@ -4,3 +4,4 @@
 
 ### `sultanov`
 Тесты для API модели машинного обучения ['blanchefort/rubert-base-cased-sentiment'](https://huggingface.co/blanchefort/rubert-base-cased-sentiment), которое классифицирует эмоциональную окраску коротких текстов на русском языке.
+
