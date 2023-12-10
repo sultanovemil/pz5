@@ -1,4 +1,4 @@
-[![Tests](https://github.com/sultanovemil/pz5/actions/workflows/python-app.yml/badge.svg)](https://github.com/sultanovemil/pz5/blob/main/.github/workflows/python-app.yml)
+[![Tests](https://github.com/sultanovemil/pz5/actions/workflows/python-app.yml/badge.svg)](https://github.com/sultanovemil/pz5/actions)
 
 ## Практическое задание №5
 Развертывание Web или API приложения в облаке для доступа пользователей через интернет.
