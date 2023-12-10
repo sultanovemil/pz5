@@ -1,3 +1,5 @@
+[![Tests](https://github.com/sultanovemil/pz5/blob/main/.github/workflows/python-app.yml/badge.svg)](https://github.com/sultanovemil/pz5/blob/main/.github/workflows/python-app.yml)
+
 ## Практическое задание №5
 Развертывание Web или API приложения в облаке для доступа пользователей через интернет.
 Цель задания: научиться создавать тесты для  API модели машинного обучения и настраивать автоматический запуск тестов на GitHub. 
